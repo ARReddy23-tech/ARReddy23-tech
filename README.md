@@ -1,5 +1,5 @@
   ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-  <br> I'm Ravindhar Reddy A, AWS DevSecOps Engineer :computer:<br> 
+ <br><strong style="font-size:36px;">I'm Ravindhar Reddy Ailuri</strong>,  <strong style="font-size:36px;">AWS DevSecOps Engineer :computer:<br>
     <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   <br>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="700">
