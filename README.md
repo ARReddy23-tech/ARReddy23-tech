@@ -101,14 +101,6 @@
 
 ---
 
-## 📅 Community & Events
-
-- 🧑‍💻 **Meetups** — Hands-on learning, local tech community, new tools
-- 🎤 **Conferences** — Networking, industry trends, knowledge sharing
-- 📝 Always open to **speaking, volunteering, or organizing** tech events
-
----
-
 ## 📬 Connect With Me
 
 <p align="left">
