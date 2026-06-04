@@ -1,16 +1,143 @@
-  ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
- <br><strong style="font-size:36px;">I'm Ravindhar Reddy Ailuri</strong>,  <strong style="font-size:36px;">DevOps/Cloud/SRE Engineer :computer:<br>
-    <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="300" height="auto" />
-  <br>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
- <h2 align="left">:hammer_and_wrench: Technologies and Tools:</h2>
- 
-   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" /> <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img alt="Apache Maven" src="https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" /> <img alt="Puppet" src="https://img.shields.io/badge/Puppet-FFAE1A?style=flat-square&logo=puppet&logoColor=black" /> <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> <img alt="Veracode" src="https://img.shields.io/badge/Veracode-00BFA5?style=flat-square&logo=veracode&logoColor=white" /> <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> <img alt="Splunk" src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" /> <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" /> <img alt="ELK" src="https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elastic-stack&logoColor=white" /> <img alt="DAST" src="https://img.shields.io/badge/DAST-5C2D91?style=flat-square&logo=securityscorecard&logoColor=white" /> <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" /> <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> <img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" /> <img alt="Nexus" src="https://img.shields.io/badge/Nexus-1B1C30?style=flat-square&logo=sonatype&logoColor=white" /> <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" /> <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" /> <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" /> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />  
- 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
-- :computer: I'm a DevOps/Cloud/SRE Engineer
+<h1 align="center">Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h1>
+<h2 align="center">I'm Ravindhar Reddy Ailuri</h2>
+<h3 align="center">⏳ DevOps / Cloud / SRE → 🔐 DevSecOps Engineer</h3>
 
-- :hourglass_flowing_sand: Exploring DevOps/Cloud/SRE Engineer
-- :rocket: Always ready to collaborate for DevOps/Cloud/SRE Experiments
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+<p align="center">
+  <em>🎯 "Explore 🔥 and Explode 💣 with knowledge"</em>
+</p>
+
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
+---
+
+## 👨🏻‍💻 About Me
+
+- 💻 DevOps / Cloud / SRE Engineer transitioning into **DevSecOps**
+- ⏳ Exploring **DevOps / Cloud / SRE → DevSecOps** roles & skills
+- 🔐 Currently leveling up in **Security** to shift into **DevSecOps**
+- 🚀 Always ready to collaborate on **DevOps, Cloud, SRE & Security** experiments
+- ⚡ I love attending **Meetups** to learn and **Conferences** to network
+- 🎯 Life Hack: *"Explore 🔥 and Explode 💣 with knowledge"*
+
+---
+
+## 🛠️ Technologies and Tools
+
+### ☁️ Cloud & OS
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+### 🏗️ IaC & Configuration Management
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=flat-square&logo=puppet&logoColor=black)
+
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+
+### ⚙️ CI/CD & Source Control
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+![Nexus](https://img.shields.io/badge/Nexus-1B1C30?style=flat-square&logo=sonatype&logoColor=white)
+
+### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![ELK](https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elastic-stack&logoColor=white)
+
+### 🔐 Security (DevSecOps Journey)
+![Veracode](https://img.shields.io/badge/Veracode-00BFA5?style=flat-square&logo=veracode&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![DAST](https://img.shields.io/badge/DAST-5C2D91?style=flat-square&logo=securityscorecard&logoColor=white)
+
+### 💻 Scripting & Databases
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+## 🔐 DevSecOps Journey — Shifting Security Left
+
+> Integrating security into every stage of the pipeline — from code commit to production.
+
+| Area | Tools / Focus | Status |
+|------|--------------|--------|
+| 🔍 SAST | SonarQube, Veracode | ✅ Hands-on |
+| 🌐 DAST | OWASP ZAP, DAST tools | ✅ Hands-on |
+| 🐳 Container Security | Trivy, image scanning | 🔄 Learning |
+| 🔑 Secrets Management | Vault, AWS Secrets Manager | 🔄 Learning |
+| 🛡️ IaC Security | Checkov, tfsec | 🔄 Learning |
+| 📜 Compliance as Code | OPA, Gatekeeper | 🔄 Exploring |
+| ☁️ Cloud Security | IAM hardening, CSPM | 🔄 Exploring |
+
+---
+
+## 🌱 Currently Learning
+
+- 🔐 **DevSecOps** — Security toolchain integration & shift-left practices
+- 🛡️ **Cloud Security** — IAM hardening, threat modeling, CSPM
+- 🐳 **Container Security** — Trivy, Falco, runtime protection
+- 📜 **Policy as Code** — OPA, Checkov, tfsec
+
+---
+
+## 🤝 Open to Collaborate On
+
+- 🔐 DevSecOps pipeline setups & security automation
+- ☁️ Cloud infrastructure automation (Terraform / Ansible)
+- 🐳 Kubernetes hardening & GitOps workflows (ArgoCD / Helm)
+- 📊 SRE practices — SLOs, error budgets, runbooks
+- 🧪 Any DevOps / Cloud / Security experiments!
+
+---
+
+## 📅 Community & Events
+
+- 🧑‍💻 **Meetups** — Hands-on learning, local tech community, new tools
+- 🎤 **Conferences** — Networking, industry trends, knowledge sharing
+- 📝 Always open to **speaking, volunteering, or organizing** tech events
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RavindharAiluri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RavindharAiluri&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RavindharAiluri&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">⭐ <em>If you find my work helpful, consider giving a star!</em> ⭐</p>
+
