@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h1>
 <h2 align="center">I'm Ravindhar Reddy Ailuri</h2>
-<h3 align="center">⏳ DevOps / Cloud / SRE → 🔐 DevSecOps Engineer</h3>
+<h3 align="center">⏳ DevOps / Cloud / DevSecOps / Platform / SRE / Observability → 🔐 AiOps </h3>
 
 <p align="center">
   <em>🎯 "Explore 🔥 and Explode 💣 with knowledge"</em>
@@ -14,10 +14,10 @@
 
 ## 👨🏻‍💻 About Me
 
-- 💻 DevOps / Cloud / SRE Engineer transitioning into **DevSecOps**
-- ⏳ Exploring **DevOps / Cloud / SRE → DevSecOps** roles & skills
-- 🔐 Currently leveling up in **Security** to shift into **DevSecOps**
-- 🚀 Always ready to collaborate on **DevOps, Cloud, SRE & Security** experiments
+- 💻 DevOps / Cloud / DevSecOps / Platform / SRE / Observability Engineer transitioning into **AiOps**
+- ⏳ Exploring **DevOps / Cloud / DevSecOps / Platform / SRE / Observability / Security / AiOps With DevSecOps** roles & skills
+- 🔐 Currently leveling up in **AiOps** to shift into **AiOps With DevSecOps**
+- 🚀 Always ready to collaborate on **DevOps, Cloud, DevSecOps, Platform, SRE, Observability, Security & AiOps** experiments
 - ⚡ I love attending **Meetups** to learn and **Conferences** to network
 - 🎯 Life Hack: *"Explore 🔥 and Explode 💣 with knowledge"*
 
