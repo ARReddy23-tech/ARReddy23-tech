@@ -13,13 +13,12 @@
 ---
 
 ## 👨🏻‍💻 About Me
-
-- 💻 DevOps / Cloud / DevSecOps / Platform / SRE / Observability Engineer transitioning into **AiOps**
-- ⏳ Exploring **DevOps / Cloud / DevSecOps / Platform / SRE / Observability / Security / AiOps With DevSecOps** roles & skills
-- 🔐 Currently leveling up in **AiOps** to shift into **AiOps With Cloud DevSecOps**
-- 🚀 Always ready to collaborate on **DevOps, Cloud, DevSecOps, Platform, SRE, Observability, Security & AiOps** experiments
-- ⚡ I love attending **Meetups** to learn and **Conferences** to network
-- 🎯 Life Hack: *"Explore 🔥 and Explode 💣 with knowledge"*
+- 💻 DevOps / Cloud DevOps / DevSecOps / Platform / SRE / Observability Engineer with hands-on experience across AWS, Terraform, Kubernetes, CI/CD, security scanning, monitoring, and automation.
+- ⏳ Expanding into AIOps and Cloud Security Governance, with a focus on AWS multi-account security, IAM, SCPs, RCPs, Control Tower, AFT, policy-as-code, and secure rollout practices.
+- 🔐 Currently building deeper expertise in AIOps for Cloud DevSecOps and AWS Security Governance to strengthen automation, incident intelligence, policy enforcement, and cloud security.
+- 🚀 Interested in collaborating on DevOps, DevSecOps, Platform Engineering, SRE, Observability, Cloud Security, Governance, and AIOps projects.
+- ⚡ I enjoy attending Meetups to learn from practitioners and Conferences to build strong professional networks.
+- 🎯 Life Hack: “Explore 🔥, learn deeply, and turn knowledge into impact 💣.”
 
 ---
 
