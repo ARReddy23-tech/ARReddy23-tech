@@ -16,7 +16,7 @@
 
 - 💻 DevOps / Cloud / DevSecOps / Platform / SRE / Observability Engineer transitioning into **AiOps**
 - ⏳ Exploring **DevOps / Cloud / DevSecOps / Platform / SRE / Observability / Security / AiOps With DevSecOps** roles & skills
-- 🔐 Currently leveling up in **AiOps** to shift into **AiOps With DevSecOps**
+- 🔐 Currently leveling up in **AiOps** to shift into **AiOps With Cloud DevSecOps**
 - 🚀 Always ready to collaborate on **DevOps, Cloud, DevSecOps, Platform, SRE, Observability, Security & AiOps** experiments
 - ⚡ I love attending **Meetups** to learn and **Conferences** to network
 - 🎯 Life Hack: *"Explore 🔥 and Explode 💣 with knowledge"*
